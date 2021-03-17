@@ -1,6 +1,6 @@
 ### Olá, eu sou o Ygor 👋
 
-- 🔭 Estou trabalhando no projeto [cachorros infinitos](https://github.com/YgorPerez/cachorros-infinitos) :dog:
+- 🔭 Estou trabalhando no projeto [cachorro infinito](https://github.com/YgorPerez/cachorro-infinito) :dog:
 - 🌱 Aprendendo AJAX
 - 👯 Procuro colaborar em projetos para me aprimorar profissionalmente
 - 🤔 Aceito ajuda com design, UI e UX
