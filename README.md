@@ -6,6 +6,6 @@
 - 🤔 Aceito ajuda com design, UI e UX
 - 👨‍🎓 Faço técnico de informática no Centro Educacional Etip
 - 📫 Onde me encontrar: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), perezygor@gmail.com
-- ⚡ Fato curioso: estudo desenvolvimento web há 6 meses e tenho 16 anos
+- ⚡ Fato curioso: estudo desenvolvimento web há 5 meses e tenho 16 anos
 ---
  
