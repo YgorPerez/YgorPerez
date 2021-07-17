@@ -1,11 +1,11 @@
-### Olá, eu sou o Ygor 👋
+### Hey, I am Ygor 👋
 
-- 🔭 Estou trabalhando no projeto [cachorro infinito](https://github.com/YgorPerez/cachorro-infinito) :dog:
-- 🌱 Aprendendo React
-- 👯 Procuro colaborar em projetos para me aprimorar profissionalmente
-- 🤔 Aceito ajuda com design, UI e UX
-- 👨‍🎓 Faço técnico de informática no Centro Educacional Etip
-- 📫 Onde me encontrar: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), perezygor@gmail.com
-- ⚡ Fato curioso: estudo desenvolvimento web há 5 meses e tenho 16 anos
+- 🔭 I am working in [chrome new tab clone](https://github.com/YgorPerez/chrome-new-tab-clone)
+- 🌱 Learning React
+- 👯 Look forward to contribute in projects with other member of the community
+- 🤔 Need help with the back-end
+- 👨‍🎓 I study in a vocational IT school here in Brazil
+- 📫 Where to find me: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), perezygor@gmail.com
+- ⚡ fun fact: has been 6 months sice I started developing, I am 16 and I on the 2° year of high school
 ---
  
