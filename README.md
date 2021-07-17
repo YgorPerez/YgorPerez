@@ -1,6 +1,6 @@
 ### Hey, I am Ygor 👋
 
-- 🔭 I am working in [chrome new tab clone](https://github.com/YgorPerez/chrome-new-tab-clone)
+- 🔭 I am working on [chrome new tab clone](https://github.com/YgorPerez/chrome-new-tab-clone)
 - 🌱 Learning React
 - 👯 Look forward to contribute in projects with other member of the community
 - 🤔 Need help with the back-end
