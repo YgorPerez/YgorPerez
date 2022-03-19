@@ -33,15 +33,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/terminal-dark.svg#gh-dark-mode-only" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/codeSTACKr/codeSTACKr/7704eaaa4e70d69d45a5d1fc6463cae26a605437/img/terminal-light.svg#gh-light-mode-only" />
 <img align="left" alt="Docker" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
+<br>
 
-<br><br>
 <!--START_SECTION:activity-->
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YgorPerez&theme=react-dark&custom_title=Ygor%20Perez%27s%20Github%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br>
+
+### Statistics:
+
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YgorPerez&theme=react-dark&custom_title=Ygor%20Perez%27s%20Github%20Activity&bg_color=1d2B64&line=d8Cdda)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorPerez&count_private=true&hide=prs&show_icons=true&theme=algolia&custom_title=Ygor%20Perez%27s%20Github%20Stats&bg_color=90,1d2B64,f8Cdda&border_radius=20)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&layout=compact&theme=algolia&bg_color=90,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ygorperez&hide=other&layout=compact&custom_title=Time%20Spent%20This%20Week&theme=algolia&bg_color=0,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![Readme Card dashbo](https://github-readme-stats.vercel.app/api/pin/?username=YgorPerez&repo=dashboard-app&theme=algolia&bg_color=45,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)-->
