@@ -2,7 +2,7 @@
 
 - 🔭 I am working on my back-end skills
 - 🌱 Learning Next.js and C#
-- 👯 Look forward in to contribute on projects with other member of the community
+- 👯 Looking forward in to contribute on projects with other member of the community
 - 🤔 Need help with the UI and UX
 - 👨‍🎓 I study in a vocational IT school here in Brazil
 - 📫 Where to find me: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), perezygor@gmail.com
