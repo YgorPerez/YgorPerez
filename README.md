@@ -37,11 +37,13 @@
 
 <!--START_SECTION:activity-->
 
-### Statistics:
+---
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YgorPerez&theme=react-dark&custom_title=Ygor%20Perez%27s%20Github%20Activity&bg_color=1d2B64&line=d8Cdda)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorPerez&count_private=true&hide=prs&show_icons=true&theme=algolia&custom_title=Ygor%20Perez%27s%20Github%20Stats&bg_color=90,1d2B64,f8Cdda&border_radius=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&layout=compact&theme=algolia&bg_color=90,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ygorperez&hide=other&layout=compact&custom_title=Time%20Spent%20This%20Week&theme=algolia&bg_color=0,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Readme Card dashbo](https://github-readme-stats.vercel.app/api/pin/?username=YgorPerez&repo=dashboard-app&theme=algolia&bg_color=45,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<!--[![Readme Card dashboard](https://github-readme-stats.vercel.app/api/pin/?username=YgorPerez&repo=dashboard-app&theme=algolia&bg_color=45,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)--
+
