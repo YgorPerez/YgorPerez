@@ -65,7 +65,7 @@
 2. 🎉 Merged PR [#1](https://github.com/YgorPerez/dashboard-app/pull/1) in [YgorPerez/dashboard-app](https://github.com/YgorPerez/dashboard-app)
 <!--END_SECTION:activity-->
 
-### StackOverflow Activity
+### ❓❗ StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Ygor Perez de Oliveira for Change checkbox button &quot;text and icon&quot; after click html &amp; CSS](https://stackoverflow.com/questions/71468491/change-checkbox-button-text-and-icon-after-click-html-css/71469903#71469903)
 - [Answer by Ygor Perez de Oliveira for The flexbox container isn&#39;t horizontal scrollable and the items doesn&#39;t match screen with](https://stackoverflow.com/questions/71388017/the-flexbox-container-isnt-horizontal-scrollable-and-the-items-doesnt-match-sc/71388562#71388562)
