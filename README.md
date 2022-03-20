@@ -62,7 +62,12 @@
 2. 🎉 Merged PR [#1](https://github.com/YgorPerez/dashboard-app/pull/1) in [YgorPerez/dashboard-app](https://github.com/YgorPerez/dashboard-app)
 <!--END_SECTION:activity-->
 
+### StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+  
 ---
+  
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YgorPerez&theme=react-dark&custom_title=Ygor%20Perez%27s%20Github%20Activity&bg_color=1d2B64&line=d8Cdda)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorPerez&count_private=true&hide=prs&show_icons=true&theme=algolia&custom_title=Ygor%20Perez%27s%20Github%20Stats&bg_color=90,1d2B64,f8Cdda&border_radius=20)
