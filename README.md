@@ -1,4 +1,4 @@
-### Hi, there I'm Ygor - Frontend Developer 👋
+### Hi, there I'm Ygor 👋
 ## A Frontend developer from Brazil passionate ❤️‍🔥 about all things technology 
 - 🔭 I am working on my back-end skills
 - 🔨 Developing my [portfolio]() 
