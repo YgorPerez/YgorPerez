@@ -55,7 +55,7 @@
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-128/webpack-226064.png" alt="webpack" width="40" height="40"/> </a> 
 </p>
 
-### Latest Activities 
+### 💡 Latest Activities 
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#20705](https://github.com/timburgan/timburgan/issues/20705) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
