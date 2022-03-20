@@ -16,7 +16,7 @@
 - ⚡ fun fact: has been more than a year since I started developing, I am 17 and I on the 3° year of IT high school
 ---
 
-<!--### Blogs posts :book:-->
+### Blogs posts :book:
 <!-- BLOG-POST-LIST:START -->
 - [Como se tornar um desenvolvedor web 🌐](https://dev.to/ygorperez/como-se-tornar-um-desenvolvedor-web-3bj2)
 - [O que é Scrum? E como suceder 🚀](https://dev.to/ygorperez/o-que-e-scrum-e-como-fazer-5hjf)
