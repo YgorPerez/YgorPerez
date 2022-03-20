@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "STACKOVERFLOW"
           commit_message: "Updated readme with the latest stackOverflow data"
-          feed_list: "https://stackoverflow.com/users/16401200/ygor-perez-de-oliveira?tab=topactivity"
+          feed_list: "https://stackoverflow.com/user/16401200"
