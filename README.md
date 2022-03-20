@@ -1,5 +1,5 @@
-
-## A Frontend developer from Brazil Passionate ❤️‍🔥 about all things technology 
+![Hi there, I'm Ygor a Frontend Developer](https://user-images.githubusercontent.com/54226652/159144452-6dae5c5f-00ef-4ba2-9ce9-c8d4f076b4a3.png)
+## Passionate ❤️‍🔥 about all things technology
 - 🔭 I am working on my back-end skills
 - 🔨 Developing my [portfolio]() 
 - 🌱 Learning Next.js and C#
@@ -10,7 +10,7 @@
 - 🤔 Need help with my Ux and Ui
 - 💬 Ask me about JavaScript
 - 📄 Know about my experiences: [resume](https://ygor-perez.notion.site)
-- ⚡ fun fact: has been more than a year since I started developing, I am 17 and I on the 3° year of high school
+- ⚡ fun fact: has been more than a year since I started developing, I am 17 and I on the 3° year of IT high school
 ---
 
 <!--### Blogs posts :book:-->
