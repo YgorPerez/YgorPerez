@@ -78,13 +78,13 @@
 ---
   
 
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YgorPerez&theme=react-dark&custom_title=Ygor%20Perez%27s%20Github%20Activity&bg_color=1d2B64&line=d8Cdda)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YgorPerez&theme=elegant&custom_title=Ygor%20Perez%27s%20Github%20Activity&bg_color=050F2C&line=009FEB&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center" >
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=YgorPerez&count_private=true&hide=prs&show_icons=true&theme=algolia&custom_title=Ygor%20Perez%27s%20Github%20Stats&bg_color=90,1d2B64,f8Cdda&border_radius=20" alt="My GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&layout=compact&theme=algolia&bg_color=90,1d2B64,f8Cdda&border_radius=20" alt="Top Langs">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ygorperez&hide=other&layout=compact&custom_title=Time%20Spent%20This%20Week&theme=algolia&bg_color=0,1d2B64,f8Cdda&border_radius=20" alt="My wakatime stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YgorPerez&custom_title=Ygor%20Perez%27s%20Github%20Stats&count_private=true&hide=prs&show_icons=true&theme=algolia&hide_border=true" alt="My GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&theme=algolia&hide_border=true" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ygorperez&hide=other&custom_title=Time%20Spent%20This%20Week&theme=algolia&hide_border=true" alt="My wakatime stats">
   </a>
 </p>
   
