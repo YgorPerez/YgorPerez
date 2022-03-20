@@ -3,7 +3,7 @@
 - 🔭 I am working on my back-end skills
 - 🔨 Developing my [portfolio]() 
 - 🌱 Learning Next.js and C#
-- 👯 Looking forward in to contributing on open source
+- 👯 Looking forward in to contributing to open source
 - 👨‍🎓 I study in a vocational IT school here in Brazil
 - 📫 Where to find me: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), perezygor@gmail.com, +55 (11) 94609-7335 
 - 🎯 2022 Goal: Become a Fullstack Developer
@@ -79,7 +79,10 @@
 <!--[![Readme Card dashboard](https://github-readme-stats.vercel.app/api/pin/?username=YgorPerez&repo=dashboard-app&theme=algolia&bg_color=45,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ygorperez&theme=monokai&no-frame=true&column=3&margin-w=15&margin-h=15&rank=S,AAA,AA,A" alt="ygorperez" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ygorperez&label=Profile%20views&color=0e75b6&style=flat" alt="ygorperez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ygorperez&label=Profile%20views&color=dc143c&style=flat-square" alt="Repo Views" /><img src="https://gitwar.herokuapp.com/badge?username=ygorperez&color=dc143c&style=flat-square" alt="Git wars rank"> </p>
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ygor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ygor" /></a><a href="https://ko-fi.com/ygorp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ygorp" /></a></p><br><br>
+
+
