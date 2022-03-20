@@ -1,4 +1,4 @@
-![Hi there, I'm Ygor a Frontend Developer](https://user-images.githubusercontent.com/54226652/159144452-6dae5c5f-00ef-4ba2-9ce9-c8d4f076b4a3.png)
+![Hi there, I'm Ygor a Frontend Developer](https://user-images.githubusercontent.com/54226652/159144604-0b697da3-45aa-42f2-9d53-026eb0509992.png)
 ## Passionate ❤️‍🔥 about all things technology
 - 🔭 I am working on my back-end skills
 - 🔨 Developing my [portfolio]() 
