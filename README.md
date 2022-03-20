@@ -1,4 +1,7 @@
 ![Hi there, I'm Ygor a Frontend Developer](https://user-images.githubusercontent.com/54226652/159144604-0b697da3-45aa-42f2-9d53-026eb0509992.png)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ygorperez&label=Profile%20views&color=dc143c&style=flat-square" alt="Repo Views" /><img src="https://gitwar.herokuapp.com/badge?username=ygorperez&color=dc143c&style=flat-square" alt="Git wars rank"> </p>
+
 ## Passionate ❤️‍🔥 about all things technology
 - 🔭 I am working on my back-end skills
 - 🔨 Developing my [portfolio]() 
@@ -66,23 +69,26 @@
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
   
+[![My StackOverflow badges](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/16401200)](https://stackoverflow.com/users/16401200/ygor-perez-de-oliveira?tab=topactivity)
+  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ygorperez&theme=monokai&no-frame=true&column=3&margin-w=15&margin-h=15&rank=S,AAA,AA,A" alt="ygorperez" /></a> </p>
+  
 ---
   
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YgorPerez&theme=react-dark&custom_title=Ygor%20Perez%27s%20Github%20Activity&bg_color=1d2B64&line=d8Cdda)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=YgorPerez&count_private=true&hide=prs&show_icons=true&theme=algolia&custom_title=Ygor%20Perez%27s%20Github%20Stats&bg_color=90,1d2B64,f8Cdda&border_radius=20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&layout=compact&theme=algolia&bg_color=90,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ygorperez&hide=other&layout=compact&custom_title=Time%20Spent%20This%20Week&theme=algolia&bg_color=0,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ygorperez&theme=algolia" alt="ygorperez" />
 
+<p align="center" >
+  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=YgorPerez&count_private=true&hide=prs&show_icons=true&theme=algolia&custom_title=Ygor%20Perez%27s%20Github%20Stats&bg_color=90,1d2B64,f8Cdda&border_radius=20" alt="My GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&layout=compact&theme=algolia&bg_color=90,1d2B64,f8Cdda&border_radius=20" alt="Top Langs">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ygorperez&hide=other&layout=compact&custom_title=Time%20Spent%20This%20Week&theme=algolia&bg_color=0,1d2B64,f8Cdda&border_radius=20" alt="My wakatime stats">
+  </a>
+</p>
+  
+<!--<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ygorperez&theme=algolia" alt="ygorperez" />-->
 
-<!--[![Readme Card dashboard](https://github-readme-stats.vercel.app/api/pin/?username=YgorPerez&repo=dashboard-app&theme=algolia&bg_color=45,1d2B64,f8Cdda&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ygorperez&theme=monokai&no-frame=true&column=3&margin-w=15&margin-h=15&rank=S,AAA,AA,A" alt="ygorperez" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ygorperez&label=Profile%20views&color=dc143c&style=flat-square" alt="Repo Views" /><img src="https://gitwar.herokuapp.com/badge?username=ygorperez&color=dc143c&style=flat-square" alt="Git wars rank"> </p>
-
+<!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=YgorPerez&repo=moviefy&theme=algolia&bg_color=45,1d2B64,f8Cdda&border_radius=20" alt="Moviefy Project">-->
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ygor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ygor" /></a><a href="https://ko-fi.com/ygorp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ygorp" /></a></p><br><br>
-
-
+<p><a href="https://www.buymeacoffee.com/ygor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ygor" /></a><a href="https://ko-fi.com/ygorp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ygorp" /></a></p>
