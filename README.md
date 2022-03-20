@@ -1,5 +1,5 @@
 ### Hi, there I'm Ygor - Frontend Developer 👋
-## A Frontend developer from Brazil passionate about all things technology 
+## A Frontend developer from Brazil passionate ❤️‍🔥 about all things technology 
 - 🔭 I am working on my back-end skills
 - 🔨 Developing my [portfolio]() 
 - 🌱 Learning Next.js and C#
