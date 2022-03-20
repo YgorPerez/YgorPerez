@@ -18,7 +18,8 @@
 
 <!--### Blogs posts :book:-->
 <!-- BLOG-POST-LIST:START -->
-- [O que é Scrum? E como fazer](https://dev.to/ygorperez/o-que-e-scrum-e-como-fazer-5hjf)
+- [Como se tornar um desenvolvedor web 🌐](https://dev.to/ygorperez/como-se-tornar-um-desenvolvedor-web-3bj2)
+- [O que é Scrum? E como suceder 🚀](https://dev.to/ygorperez/o-que-e-scrum-e-como-fazer-5hjf)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🔗 Connect with me:</h3>
