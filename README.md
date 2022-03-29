@@ -1,6 +1,6 @@
 ![Hi there, I'm Ygor a Frontend Developer](https://user-images.githubusercontent.com/54226652/159144604-0b697da3-45aa-42f2-9d53-026eb0509992.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ygorperez&label=Profile%20views&color=dc143c&style=flat-square" alt="Repo Views" /><img src="https://gitwar.herokuapp.com/badge?username=ygorperez&color=dc143c&style=flat-square" alt="Git wars rank"> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ygorperez&label=Profile%20views&color=dc143c&style=flat-square" alt="Repo Views" /><img src="https://gitwar-ygorperez.herokuapp.com//badge?username=ygorperez&color=dc143c&style=flat-square" alt="Git wars rank"> </p>
 
 ## Passionate ❤️‍🔥 about all things technology
 - 🔭 I am working on my back-end skills
