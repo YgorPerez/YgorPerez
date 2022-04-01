@@ -67,14 +67,19 @@
 1. ❗️ Opened issue [#29](https://github.com/iampavangandhi/Gitwar/issues/29) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
 2. ❌ Closed PR [#18](https://github.com/usha-mandya/SimpleWhaleDemo/pull/18) in [usha-mandya/SimpleWhaleDemo](https://github.com/usha-mandya/SimpleWhaleDemo)
 <!--END_SECTION:activity-->
+  
+<details>
+<summary>❓❗ StackOverflow Activity</summary>
 
-### ❓❗ StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 - [Answer by Ygor Perez de Oliveira for Change checkbox button &quot;text and icon&quot; after click html &amp; CSS](https://stackoverflow.com/questions/71468491/change-checkbox-button-text-and-icon-after-click-html-css/71469903#71469903)
 - [Answer by Ygor Perez de Oliveira for The flexbox container isn&#39;t horizontal scrollable and the items doesn&#39;t match screen with](https://stackoverflow.com/questions/71388017/the-flexbox-container-isnt-horizontal-scrollable-and-the-items-doesnt-match-sc/71388562#71388562)
 <!-- STACKOVERFLOW:END -->
-  
+
 [![My StackOverflow badges](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/16401200)](https://stackoverflow.com/users/16401200/ygor-perez-de-oliveira?tab=topactivity)
+  
+</details>
+
   
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ygorperez&theme=monokai&no-frame=true&column=3&margin-w=15&margin-h=15&rank=S,AAA,AA,A" alt="ygorperez" /></a> </p>
   
@@ -95,5 +100,8 @@
 
 <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=YgorPerez&repo=moviefy&theme=algolia&bg_color=45,1d2B64,f8Cdda&border_radius=20" alt="Moviefy Project">-->
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ygor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ygor" /></a><a href="https://ko-fi.com/ygorp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ygorp" /></a></p>
+<details>
+  <summary>✊ Support</summary>
+  <br>
+  <p><a href="https://www.buymeacoffee.com/ygor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ygor"   /></a><a href="https://ko-fi.com/ygorp"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ygorp" /></a></p>
+</details>
