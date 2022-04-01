@@ -21,9 +21,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Como se tornar um desenvolvedor web 🌐](https://dev.to/ygorperez/como-se-tornar-um-desenvolvedor-web-3bj2)
 - [O que é Scrum? E como ter sucesso 🚀](https://dev.to/ygorperez/o-que-e-scrum-e-como-fazer-5hjf)
-
-
-
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more posts...](https://ygorperez.hashnode.dev/)
 
