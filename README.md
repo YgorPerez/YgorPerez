@@ -21,7 +21,11 @@
 <!-- BLOG-POST-LIST:START -->
 - [Como se tornar um desenvolvedor web 🌐](https://dev.to/ygorperez/como-se-tornar-um-desenvolvedor-web-3bj2)
 - [O que é Scrum? E como ter sucesso 🚀](https://dev.to/ygorperez/o-que-e-scrum-e-como-fazer-5hjf)
+
+
+
 <!-- BLOG-POST-LIST:END -->
+➡️ [more posts...](https://ygorperez.hashnode.dev/)
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
@@ -66,6 +70,9 @@
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#29](https://github.com/iampavangandhi/Gitwar/issues/29) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
 2. ❌ Closed PR [#18](https://github.com/usha-mandya/SimpleWhaleDemo/pull/18) in [usha-mandya/SimpleWhaleDemo](https://github.com/usha-mandya/SimpleWhaleDemo)
+  
+  
+
 <!--END_SECTION:activity-->
   
 <details>
@@ -76,6 +83,8 @@
 - [Answer by Ygor Perez de Oliveira for The flexbox container isn&#39;t horizontal scrollable and the items doesn&#39;t match screen with](https://stackoverflow.com/questions/71388017/the-flexbox-container-isnt-horizontal-scrollable-and-the-items-doesnt-match-sc/71388562#71388562)
 <!-- STACKOVERFLOW:END -->
 
+➡️ [more answers...](https://stackoverflow.com/users/16401200/ygor-perez-de-oliveira)  
+  
 [![My StackOverflow badges](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/16401200)](https://stackoverflow.com/users/16401200/ygor-perez-de-oliveira?tab=topactivity)
   
 </details>
@@ -85,9 +94,35 @@
   
 ---
   
+<details>
+  <summary>😁 About me</summary>
+  <br>
+
+  • I'm a software developer, 🔓 open-source contributor, fellow Stack Overflow companion, and occasional writer :pencil:. I love technology(SERIOUSLY), to prove this I'm quite tech-savvy 👨‍💻, always trying to test new things like trying to emulate games, pirate them(sorry), bios modding, overclocking, playing with virtual machines, and networks of course always wanted to tweak the settings to achieve maximum performance, and I'm pretty cheap, so I need to make the most out of what I have hardware and software. I'm quite lazy in the sense that I really try to automate repetitive tasks, with macros, keyboard shortcuts, linters, and I'm learning scripting now too!
+<br>
+  
+• This field of technology boggles my mind, and I really appreciate what it brings to the world, because of my curiosity 🧐 it's the natural path to follow, AI, games, backend, infra, and others all have my attention, and I'm definitely going to learn them at some point. But for now, I'm a quite good frontend developer with some DevOps and excellent problem-solving skills, I also studied software architecture and scrum to organize my projects team for a school job, with that I learned how to set up a monolith application with a proper workspace, with linters, NPM scripts, extensions and so on.
+<br>
+  
+• :heart: to explain things to others and do presentations, one time I presented 👨‍🏫 about the benefits of scrum and how to apply it to 15 people, initially I was only to explain to my group, but the professor thought that it was a good idea to do it for everyone, I really liked the experience, and I hope to do lectures more often. 
+<br>
+  
+• Not wanting to sound arrogant, but I'm a really fast learner 🚀, in school I'm the kind that shows up without knowing that have an exam and gets the best grade anyway, but it's not just in school, I would even argue that grades in school don't matter that much, what matters is how you apply what you learn, and I'm great at that, with just 3 months studying web development I was already capable of showing some work, as proof of that my brother that is a full-stack developer at the time called me for help in a task at his job involving CSS, and I was able to solve it and explain some concepts for him.
+  
+• I started developing with 14y with Python and then migrated to web development 🌐 with Javascript, I can say that I have a superb foundation and more recently I started learning data structures and algorithms because even though it isn't going to be the better short term I'm in this for the long run, and you can't translate syntax sugars from a language to another in 3y I'm sure that it's going to prove the better path.
+<br>
+  
+• Currently, I'm pursuing my first job 💼, even though I'm young and didn't finish high school yet, but in my book that counts as a plus because the contractor that hires me is going to get a cheap and productive developer, and I'm going to be able to do what I'm driven by the most! 
+  
+</details>
+  
+<details>
+  <summary>⚡ GitHub activity graph</summary>
 
 [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=YgorPerez&theme=elegant&custom_title=Ygor%20Perez%27s%20Github%20Activity&bg_color=050F2C&line=009FEB&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</details>
+  
 <p align="center" >
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&theme=algolia&hide_border=true" alt="Top Langs">
