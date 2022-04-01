@@ -70,9 +70,9 @@
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#29](https://github.com/iampavangandhi/Gitwar/issues/29) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
 2. ❌ Closed PR [#18](https://github.com/usha-mandya/SimpleWhaleDemo/pull/18) in [usha-mandya/SimpleWhaleDemo](https://github.com/usha-mandya/SimpleWhaleDemo)
-  
-  
-
+3.
+4.
+5.
 <!--END_SECTION:activity-->
   
 <details>
