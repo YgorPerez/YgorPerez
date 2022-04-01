@@ -109,7 +109,7 @@
 • I started developing with 14y with Python and then migrated to web development 🌐 with Javascript, I can say that I have a superb foundation and more recently I started learning data structures and algorithms because even though it isn't going to be the better short term I'm in this for the long run, and you can't translate syntax sugars from a language to another in 3y I'm sure that it's going to prove the better path.
 <br>
   
-• Currently, I'm pursuing my first job 💼, even though I'm young and didn't finish high school yet, but in my book that counts as a plus because the contractor that hires me is going to get a cheap and productive developer, and I'm going to be able to do what I'm driven by the most! 
+• Currently, I'm pursuing my first job 💼, even though I'm young and didn't finish high school yet, but in my book that counts as a plus because the contractor that hires me is going to get a cheap, dedicated and productive developer, and I'm going to be able to do what I'm driven by the most! 
   
 </details>
   
@@ -122,8 +122,8 @@
   
 <p align="center" >
   <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&theme=algolia&hide_border=true" alt="Top Langs">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ygorperez&hide=other&custom_title=Time%20Spent%20This%20Week&theme=algolia&hide_border=true" alt="My wakatime stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&theme=algolia&hide_border=true" alt="Top Langs">
     <img src="https://github-readme-stats.vercel.app/api?username=YgorPerez&custom_title=Ygor%20Perez%27s%20Github%20Stats&count_private=true&hide=prs&show_icons=true&theme=algolia&hide_border=true" alt="My GitHub stats">
   </a>
 </p>
