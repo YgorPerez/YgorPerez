@@ -121,13 +121,13 @@
 </details>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ygorperez&hide=other&custom_title=Time%20Spent%20This%20Week&theme=algolia&hide_border=true&langs_count=5" alt="My wakatime stats" />
+  <img align="center" src="https://readme-stats-wheat-iota.vercel.app/api/wakatime?username=ygorperez&hide=other&custom_title=Time%20Spent%20This%20Week&theme=algolia&hide_border=true&langs_count=5" alt="My wakatime stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorPerez&theme=algolia&hide_border=true&langs_count=3" alt="Top Langs"" />
+  <img align="center" src="https://readme-stats-wheat-iota.vercel.app/api/top-langs/?username=YgorPerez&theme=algolia&hide_border=true&langs_count=3" alt="Top Langs" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YgorPerez&custom_title=Ygor%20Perez%27s%20Github%20Stats&count_private=true&show_icons=true&theme=algolia&hide_border=true" alt="My GitHub stats" />
+  <img align="center" src="https://readme-stats-wheat-iota.vercel.app/api?username=YgorPerez&custom_title=Ygor%20Perez%27s%20Github%20Stats&count_private=true&show_icons=true&theme=algolia&hide_border=true" alt="My GitHub stats" />
 </a>
   
 <!--<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ygorperez&theme=algolia" alt="ygorperez" />-->
