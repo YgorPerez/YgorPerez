@@ -4,7 +4,7 @@
 
 ## Passionate ❤️‍🔥 about all things technology
 
-- 🔨 Developing my [portfolio]() 
+- 🔨 Developing my portfolio
 - 🌱 Learning Next.js and C#
 - 👯 Looking forward to contributing to open source
 - 👨‍🎓 I study in a vocational IT school here in Brazil
