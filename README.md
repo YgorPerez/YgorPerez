@@ -8,7 +8,7 @@
 - 🌱 Learning Next.js and C#
 - 👯 Looking forward to contributing to open source
 - 👨‍🎓 I study in a vocational IT school here in Brazil
-- 📫 Where to find me: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), perezygor@gmail.com, +55 (11) 94609-7335 
+- 📫 Where to find me: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), [perezygor@gmail.com](mailto:perezygor@gmail.com?subject=GitHub%20Profile&body=Hey%20Ygor%2C%20I%20saw%20your%20profile%20on%20GitHub%20and%20wanted%20to%20talk%20about...), +55 (11) 94609-7335 
 - 🎯 2022 Goal: Become a Fullstack Developer
 - 🤔 Need help with my Ux and Ui
 - 💬 Ask me about JavaScript
@@ -54,6 +54,7 @@
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-128/webpack-226064.png" alt="webpack" width="40" height="40"/> </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbRIoAvOZWjIHhwLg_SLiTdgFLWflWt0l3fA&usqp=CAU" alt="webpack" width="40" height="40"/> </a> 
+    <a href="https://developers.google.com/search/docs/beginner/seo-starter-guide" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/54226652/162602004-5f64bebe-9734-4a6c-a676-17d24e55dd89.png" alt="SEO" width="40" height="40"/></a> 
 </p>
 
 ### 💡 Latest Activities 
