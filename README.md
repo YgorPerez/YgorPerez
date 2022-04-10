@@ -1,4 +1,4 @@
-# ![Hi there, I'm Ygor a Frontend Developer](https://user-images.githubusercontent.com/54226652/159144604-0b697da3-45aa-42f2-9d53-026eb0509992.png)
+# ![Hi there, I'm Ygor a Frontend Developer](https://user-images.githubusercontent.com/54226652/162601567-10314336-24aa-4628-91f0-92fe78950a1f.png)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ygorperez&label=Profile%20views&color=dc143c&style=flat-square" alt="Repo Views" /><img src="https://gitwar.herokuapp.com/badge?username=ygorperez&color=dc143c&style=flat-square" alt="Git wars rank"> </p>
 
@@ -27,18 +27,11 @@
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ygor-perez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ygor-perez" height="30" width="40" /></a>
-<a href="https://codepen.io/ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ygorperez" height="30" width="40" /></a>
 <a href="https://dev.to/ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ygorperez" height="30" width="40" /></a>
 <a href="https://twitter.com/ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ygorperez" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16401200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16401200" height="30" width="40" /></a>
-<a href="https://instagram.com/perezygor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="perezygor" height="30" width="40" /></a>
-<a href="https://hashnode.com/@ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@ygorperez" height="30" width="40" /></a>
-<a href="https://medium.com/@ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ygorperez" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ygorperez" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ygorperez" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ygorperez" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="ygorperez" height="30" width="40" /></a>
-<a href="https://discord.gg/K9MWyNPR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#9356" height="30" width="40" /></a>
+<a href="https://hashnode.com/@ygorperez" target="blank"><img align="center" src="https://user-images.githubusercontent.com/54226652/162601303-257adb3f-68c7-4092-9367-9a7923f2eeff.png" alt="@ygorperez" height="30" width="40" /></a>
+<a href="https://medium.com/@ygorperez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ygorperez" height="30" width="30" /></a>
 </p>
 
 ### 🚀 Languages and Tools
@@ -60,6 +53,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-128/webpack-226064.png" alt="webpack" width="40" height="40"/> </a> 
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbRIoAvOZWjIHhwLg_SLiTdgFLWflWt0l3fA&usqp=CAU" alt="webpack" width="40" height="40"/> </a> 
 </p>
 
 ### 💡 Latest Activities 
