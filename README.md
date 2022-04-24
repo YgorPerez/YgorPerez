@@ -59,7 +59,7 @@
 ### 💡 Latest Activities 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/iampavangandhi/Gitwar/issues/29) in [iampavangandhi/Gitwar](https://github.com/iampavangandhi/Gitwar)
+1. 💪 Opened PR [#1](https://github.com/YgorPerez/jenkins/pull/1) in [YgorPerez/jenkins](https://github.com/YgorPerez/jenkins)
 2. ❌ Closed PR [#18](https://github.com/usha-mandya/SimpleWhaleDemo/pull/18) in [usha-mandya/SimpleWhaleDemo](https://github.com/usha-mandya/SimpleWhaleDemo)
 3. 💪 Opened PR [#18](https://github.com/usha-mandya/SimpleWhaleDemo/pull/18) in [usha-mandya/SimpleWhaleDemo](https://github.com/usha-mandya/SimpleWhaleDemo)
 4. 💪 Opened PR [#106](https://github.com/hipstersmoothie/stylelint-formatter-github/pull/106) in [hipstersmoothie/stylelint-formatter-github](https://github.com/hipstersmoothie/stylelint-formatter-github)
