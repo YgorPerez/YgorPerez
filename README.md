@@ -5,14 +5,14 @@
 ## Passionate ❤️‍🔥 about all things technology
 
 - 🔨 Developing my portfolio
-- 🌱 Learning Next.js and C#
+- 🌱 Learning the T3 stack
 - 👯 Looking forward to contributing to open source
-- 👨‍🎓 I study in a vocational IT school here in Brazil
-- 📫 Where to find me: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), [perezygor@gmail.com](mailto:perezygor@gmail.com?subject=GitHub%20Profile&body=Hey%20Ygor%2C%20I%20saw%20your%20profile%20on%20GitHub%20and%20wanted%20to%20talk%20about...), +55 (11) 94609-7335 
-- 🎯 2022 Goal: Become a Fullstack Developer
+- 👨‍🎓 I finished the vocational computer school here in Brazil
+- 📫 Where to find me: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), [perezygor@gmail.com](mailto:perezygor@gmail.com?subject=GitHub%20Profile&body=Hey%20Ygor%2C%20I%20saw%20your%20profile%20on%20GitHub%20and%20wanted%20to%20talk%20about...), [+55 (11) 94609-7335](https://wa.me/5511946097335?text=Hi%20Ygor!%20I%20saw%20your%20resume%20and%20would%20like%20to%20talk%20about...) 
+- 🎯 2023 Goal: Learn to how wotk effectively in a team and the T3 stack 
 - 🤔 Need help with my Ux and Ui
 - 💬 Ask me about JavaScript
-- 📄 Know about my experiences: [resume](https://ygor-perez.notion.site)
+- 📄 Know about my experiences: [resume](https://ygor-perez-resume.super.site)
 - ⚡ fun fact: passed more than a year since I started developing, I'm 17, and I on the 3° year of IT high school
   
 ---
