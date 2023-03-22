@@ -9,11 +9,11 @@
 - 👯 Looking forward to contributing to open source
 - 👨‍🎓 I finished the vocational computer school here in Brazil
 - 📫 Where to find me: [Linkedin](https://www.linkedin.com/in/ygor-perez-de-oliveira/), [perezygor@gmail.com](mailto:perezygor@gmail.com?subject=GitHub%20Profile&body=Hey%20Ygor%2C%20I%20saw%20your%20profile%20on%20GitHub%20and%20wanted%20to%20talk%20about...), [+55 (11) 94609-7335](https://wa.me/5511946097335?text=Hi%20Ygor!%20I%20saw%20your%20resume%20and%20would%20like%20to%20talk%20about...) 
-- 🎯 2023 Goal: Learn to how wotk effectively in a team and the T3 stack 
+- 🎯 2023 Goal: Learn to how grow more from talking to teamates while working remotely and learn the T3 stack 
 - 🤔 Need help with my Ux and Ui
 - 💬 Ask me about JavaScript
 - 📄 Know about my experiences: [resume](https://ygor-perez-resume.super.site)
-- ⚡ fun fact: passed more than a year since I started developing, I'm 17, and I on the 3° year of IT high school
+- ⚡ fun fact: I started coding in python on my phone when I was 14y
   
 ---
 
@@ -79,7 +79,7 @@
   <summary>😁 About me</summary>
   <br>
 
-  • I'm a software developer, 🔓 open-source contributor, fellow Stack Overflow companion, and occasional writer :pencil:. I love technology(SERIOUSLY), to prove this I'm quite tech-savvy 👨‍💻, always trying to test new things like trying to emulate games, pirate them(sorry), bios modding, overclocking, playing with virtual machines, and networks of course always wanted to tweak the settings to achieve maximum performance, and I'm pretty cheap, so I need to make the most out of what I have hardware and software. I'm quite lazy in the sense that I really try to automate repetitive tasks, with macros, keyboard shortcuts, linters, and I'm learning scripting now too!
+  • I'm a software developer, 🔓 open-source contributor, fellow Stack Overflow companion, and occasional writer :pencil:. I love technology(SERIOUSLY), I'm always trying to test new things like trying to emulate games, pirate them(sorry), bios modding, overclocking, playing with virtual machines, and networks of course, I always wanted to tweak the settings of everything to achieve maximum performance, and I'm pretty cheap, so I need to make the most out of what I have, being hardware or software. I'm quite lazy in the sense that I really try to automate repetitive tasks, with macros, keyboard shortcuts, linters, and I'm learning scripting now too!
 <br>
   
 • This field of technology boggles my mind, and I really appreciate what it brings to the world, because of my curiosity 🧐 it's the natural path to follow, AI, games, backend, infra, and others all have my attention, and I'm definitely going to learn them at some point. But for now, I'm a quite good frontend developer with some DevOps and excellent problem-solving skills, I also studied software architecture and scrum to organize my projects team for a school job, with that I learned how to set up a monolith application with a proper workspace, with linters, NPM scripts, extensions and so on.
@@ -88,12 +88,13 @@
 • :heart: to explain things to others and do presentations, one time I presented 👨‍🏫 about the benefits of scrum and how to apply it to 15 people, initially I was only to explain to my group, but the professor thought that it was a good idea to do it for everyone, I really liked the experience, and I hope to do lectures more often. 
 <br>
   
-• Not wanting to sound arrogant, but I'm a really fast learner 🚀, in school I'm the kind that shows up without knowing that have an exam and gets the best grade anyway, but it's not just in school, I would even argue that grades in school don't matter that much, what matters is how you apply what you learn, and I'm great at that, with just 3 months studying web development I was already capable of showing some work, as proof of that my brother that is a full-stack developer at the time called me for help in a task at his job involving CSS, and I was able to solve it and explain some concepts for him.
-  
-• I started developing with 14y with Python and then migrated to web development 🌐 with Javascript, I can say that I have a superb foundation and more recently I started learning data structures and algorithms because even though it isn't going to be the better short term I'm in this for the long run, and you can't translate syntax sugars from a language to another in 3y I'm sure that it's going to prove the better path.
+• Not wanting to sound arrogant, but I'm a really fast learner 🚀, in school I'm the kind that shows up without knowing that have an exam and gets the best grade anyway, but it's not just in school, I would even argue that grades in school don't matter that much, what matters is how you apply what you learn, and I'm great at that. 
+<br> 
+ 
+• With just 3 months studying web development I was already capable of showing some work, as proof of that my brother that is a full-stack developer at the time called me for help in a task at his job involving CSS, and I was able to solve it and explain some concepts for him which ended up speeding up his workflow.
 <br>
   
-• Currently, I'm pursuing my first job 💼, even though I'm young and didn't finish high school yet.
+• Currently, I'm pursuing a job where I can grow more and have stability.
   
 </details>
   
