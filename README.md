@@ -106,7 +106,7 @@
 </details>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readme-stats-wheat-iota.vercel.app/api/wakatime?username=ygorperez&hide=other&custom_title=Time%20Spent%20This%20Week&theme=algolia&hide_border=true&langs_count=5" alt="My wakatime stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ygorperez&hide=other&custom_title=Time%20Spent%20This%20Week&theme=algolia&hide_border=true&langs_count=5" alt="My wakatime stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://readme-stats-wheat-iota.vercel.app/api/top-langs/?username=YgorPerez&theme=algolia&hide_border=true&layout=compact&hide=html" alt="Top Langs" />
